@@ -1,6 +1,6 @@
 ### Welcome to SwiftUI land. 
 
-Here is my current updated and maintened projects.
+Here is my current updated and maintained projects.
 
 <img src="https://github.com/Dimillian/ACHNBrowserUI/blob/main/images/promo3.png" width="300"><img src="https://github.com/Dimillian/RedditOS/blob/master/Images/image1.png" width="300"><img src="https://github.com/Dimillian/MovieSwiftUI/blob/master/images/MovieSwiftUI_promo_new.png" width="300">
 
