@@ -12,3 +12,8 @@ Here is my current updated and maintained projects.
 * [AC Helper](https://github.com/Dimillian/ACHNBrowserUI) An Animal Crossing application for browsing the item catalog and much much more!
 * [RedditOS](https://github.com/Dimillian/RedditOS) My most recent application, a macOS only Reddit client. Very early.
 * [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) A TMDB database browser, search & discover movies with a beautiful UX.
+
+
+Follow me on: 
+* Twitter: `https://twitter.com/@dimillian`
+* Mastodon: `https://mastodon.social/@dimillian`
