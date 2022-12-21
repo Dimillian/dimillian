@@ -9,6 +9,8 @@ Here is my current updated and maintained projects.
   <img src="https://github.com/Dimillian/MovieSwiftUI/blob/master/images/MovieSwiftUI_promo_new.png" width="400">
 </p>
 
+* [IceCubesApp](https://github.com/Dimillian/IceCubesApp) A Mastodon client all in SwiftUI.
+* [RunewordsApp](https://github.com/Dimillian/RunewordsApp) A SwiftUI app to filter & search runewords for Diablo II.
 * [AC Helper](https://github.com/Dimillian/ACHNBrowserUI) An Animal Crossing application for browsing the item catalog and much much more!
 * [RedditOS](https://github.com/Dimillian/RedditOS) My most recent application, a macOS only Reddit client. Very early.
 * [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) A TMDB database browser, search & discover movies with a beautiful UX.
