@@ -21,3 +21,5 @@ Here is my current updated and maintained projects.
 Follow me on: 
 * Twitter: `https://twitter.com/@dimillian`
 * Mastodon: `https://mastodon.social/@dimillian`
+
+[![Dimillian's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimillian&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
