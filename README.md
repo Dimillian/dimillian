@@ -1,15 +1,25 @@
 ### Welcome to SwiftUI land. 
 
 Here is my current updated and maintained projects.
-
-<p align="center">
-  <img src="https://github.com/Dimillian/IceCubesApp/blob/main/Images/promo.png" width="400">
-  <img src="https://github.com/Dimillian/RedditOS/blob/master/Images/image1.png" width="400">
-</p>
-<p align="center">
-  <img src="https://github.com/Dimillian/ACHNBrowserUI/blob/main/images/promo3.png" width="400">
-  <img src="https://github.com/Dimillian/MovieSwiftUI/blob/master/images/MovieSwiftUI_promo_new.png" width="400">
-</p>
+<!-- This version is safest for GitHub READMEs -->
+<table>
+  <tr>
+    <th>IceCubesApp</th>
+    <th>RedditOS</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Dimillian/IceCubesApp/blob/main/Images/promo.png?raw=true" width="400"></td>
+    <td><img src="https://github.com/Dimillian/RedditOS/blob/master/Images/image1.png?raw=true" width="400"></td>
+  </tr>
+  <tr>
+    <th>ACHNBrowserUI</th>
+    <th>MovieSwiftUI</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Dimillian/ACHNBrowserUI/blob/main/images/promo3.png?raw=true" width="400"></td>
+    <td><img src="https://github.com/Dimillian/MovieSwiftUI/blob/master/images/MovieSwiftUI_promo_new.png?raw=true" width="400"></td>
+  </tr>
+</table>
 
 * [IceCubesApp](https://github.com/Dimillian/IceCubesApp) A Mastodon client all in SwiftUI.
 * [RunewordsApp](https://github.com/Dimillian/RunewordsApp) A SwiftUI app to filter & search runewords for Diablo II.
