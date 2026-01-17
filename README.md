@@ -29,7 +29,7 @@ Here is my current updated and maintained projects.
   </tr>
 </table>
 
-* [Codex Monitor](https://github.com/Dimillian/CodexMonitor) Minitor the (Codex) situation.
+* [Codex Monitor](https://github.com/Dimillian/CodexMonitor) Monitor the (Codex) situation.
 * [Codex Skill Manager](https://github.com/Dimillian/CodexSkillManager) a macOS app to manage tour Codex, Claude Code & more skills.
 * [Skills](https://github.com/Dimillian/Skills) My AI Agents, SwiftUI, Swift, and more skills.
 * [Diablo2D](https://github.com/Dimillian/Diablo2D) An open source, Love2D, Diablo 2 like game.
