@@ -1,4 +1,4 @@
-### Welcome to SwiftUI land. 
+### Welcome
 
 Here is my current updated and maintained projects.
 <!-- This version is safest for GitHub READMEs -->
